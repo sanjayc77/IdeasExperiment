@@ -1,2 +1,0 @@
-# IdeasExperiment
-Created with CodeSandbox
